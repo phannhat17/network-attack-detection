@@ -8,7 +8,7 @@ Project for Machine Learning course of SoICT - HUST
 | Chu Minh Ha       | 20210293    | ha.cm210293@sis.hust.edu.vn    |
 | Nguyen Trong Hieu | 20210330    | hieu.nt210330@sis.hust.edu.vn  |
 | Phan Dinh Nhat    | 20210654    | nhat.pd210654@sis.hust.edu.vn  |
-| Nguyen Quoc Huy | 20210427    | trung.nq214976@sis.hust.edu.vn |  
+| Nguyen Quoc Huy | 20210427    | huy.nq210427@sis.hust.edu.vn |  
 
 ## Data
 

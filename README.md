@@ -17,4 +17,4 @@ Dataset used: [CIC IoT 2023](https://doi.org/10.20944/preprints202305.0443.v1)
 
 ## Model
 
-Here we use Random forest, SVM
+We are using RandomForest, SVM and AdaBoost
